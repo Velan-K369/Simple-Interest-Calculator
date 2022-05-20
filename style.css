@@ -1,9 +1,9 @@
-body {background-color:gray;
+body {background-color:rgb(77, 75, 75);
     font-family:arial narrow;
-    color:white;}
-h1{color:grey;
+    color:rgb(0, 185, 185);}
+h1{color:rgb(226, 226, 226);
  font-family:arial black;}
-.maindiv {background-color:white;
+.maindiv {background-color:rgb(122, 122, 122);
       color:black;
       width:480px;
       margin: auto;
