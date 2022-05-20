@@ -1,1 +1,1 @@
-# coding-project-template
+# coding-project-edx-peer review
